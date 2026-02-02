@@ -10,3 +10,8 @@ bagpipes
 cosmos-synthesizer
 jupyter
 ipykernel
+pymultinest
+mgspack
+nautilus-sampler
+pandas
+spectres
