@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+h5py
+pandas
+pyyaml
+astropy
+cosmos-synthesizer
+dust_extinction
+jupyterlab
+ipykernel
